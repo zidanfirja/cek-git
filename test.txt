@@ -1,1 +1,3 @@
 ini adalah isi dari test.txt
+
+ini tambahan baris kedua

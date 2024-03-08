@@ -3,5 +3,3 @@ ini adalah isi dari test.txt
 ini tambahan baris kedua
 
 menambah baris ke tiga
-
-menambah baris ke empat

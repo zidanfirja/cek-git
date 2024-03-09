@@ -7,3 +7,6 @@ menambah baris ke tiga
 mengubah baris ke empat 
 
 menambah baris ke lima
+
+menambah baris ke enam
+
